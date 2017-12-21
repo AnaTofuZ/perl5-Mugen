@@ -1,3 +1,3 @@
-## mugen 
+## mugetsu
 
 TwitterからあれするやつのPerl実装
