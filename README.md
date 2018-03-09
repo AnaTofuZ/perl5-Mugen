@@ -1,3 +1,3 @@
 ## mugetsu
 
-Twitterからあれするやつ
+Twitterからあれ
