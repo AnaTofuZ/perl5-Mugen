@@ -1,3 +1,3 @@
 ## mugetsu
 
-TwitterからあれするやつのPerl
+Twitterからあれするやつ
